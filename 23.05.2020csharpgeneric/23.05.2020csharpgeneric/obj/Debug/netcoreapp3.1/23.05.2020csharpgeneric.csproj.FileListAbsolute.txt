@@ -1,0 +1,13 @@
+C:\Users\mirhu\source\repos\16-05-2020-atm-ShahnazMehtiyeva\23.05.2020csharpgeneric\23.05.2020csharpgeneric\bin\Debug\netcoreapp3.1\23.05.2020csharpgeneric.exe
+C:\Users\mirhu\source\repos\16-05-2020-atm-ShahnazMehtiyeva\23.05.2020csharpgeneric\23.05.2020csharpgeneric\bin\Debug\netcoreapp3.1\23.05.2020csharpgeneric.deps.json
+C:\Users\mirhu\source\repos\16-05-2020-atm-ShahnazMehtiyeva\23.05.2020csharpgeneric\23.05.2020csharpgeneric\bin\Debug\netcoreapp3.1\23.05.2020csharpgeneric.runtimeconfig.json
+C:\Users\mirhu\source\repos\16-05-2020-atm-ShahnazMehtiyeva\23.05.2020csharpgeneric\23.05.2020csharpgeneric\bin\Debug\netcoreapp3.1\23.05.2020csharpgeneric.runtimeconfig.dev.json
+C:\Users\mirhu\source\repos\16-05-2020-atm-ShahnazMehtiyeva\23.05.2020csharpgeneric\23.05.2020csharpgeneric\bin\Debug\netcoreapp3.1\23.05.2020csharpgeneric.dll
+C:\Users\mirhu\source\repos\16-05-2020-atm-ShahnazMehtiyeva\23.05.2020csharpgeneric\23.05.2020csharpgeneric\bin\Debug\netcoreapp3.1\23.05.2020csharpgeneric.pdb
+C:\Users\mirhu\source\repos\16-05-2020-atm-ShahnazMehtiyeva\23.05.2020csharpgeneric\23.05.2020csharpgeneric\obj\Debug\netcoreapp3.1\23.05.2020csharpgeneric.csprojAssemblyReference.cache
+C:\Users\mirhu\source\repos\16-05-2020-atm-ShahnazMehtiyeva\23.05.2020csharpgeneric\23.05.2020csharpgeneric\obj\Debug\netcoreapp3.1\23.05.2020csharpgeneric.csproj.CoreCompileInputs.cache
+C:\Users\mirhu\source\repos\16-05-2020-atm-ShahnazMehtiyeva\23.05.2020csharpgeneric\23.05.2020csharpgeneric\obj\Debug\netcoreapp3.1\23.05.2020csharpgeneric.AssemblyInfoInputs.cache
+C:\Users\mirhu\source\repos\16-05-2020-atm-ShahnazMehtiyeva\23.05.2020csharpgeneric\23.05.2020csharpgeneric\obj\Debug\netcoreapp3.1\23.05.2020csharpgeneric.AssemblyInfo.cs
+C:\Users\mirhu\source\repos\16-05-2020-atm-ShahnazMehtiyeva\23.05.2020csharpgeneric\23.05.2020csharpgeneric\obj\Debug\netcoreapp3.1\23.05.2020csharpgeneric.dll
+C:\Users\mirhu\source\repos\16-05-2020-atm-ShahnazMehtiyeva\23.05.2020csharpgeneric\23.05.2020csharpgeneric\obj\Debug\netcoreapp3.1\23.05.2020csharpgeneric.pdb
+C:\Users\mirhu\source\repos\16-05-2020-atm-ShahnazMehtiyeva\23.05.2020csharpgeneric\23.05.2020csharpgeneric\obj\Debug\netcoreapp3.1\23.05.2020csharpgeneric.genruntimeconfig.cache
